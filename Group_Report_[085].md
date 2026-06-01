@@ -4,7 +4,7 @@
 - **Team Members**: 
   - Lê Quang Minh - 2A202600801
   - Nông Đức Hoàng - 2A202600580 
-  - Lương Thị Hồng Nhung - 2A20227252
+  - Lương Thị Hồng Nhung -2A202600811
 - **Deployment Date**: 01/06/2026
 
 ---
