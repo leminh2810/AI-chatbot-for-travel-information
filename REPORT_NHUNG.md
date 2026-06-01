@@ -1,7 +1,7 @@
 # Báo Cáo Cá Nhân: Bài Thực Hành 3 - Chatbot vs Tác Nhân ReAct
 
 - **Tên Sinh Viên**: Lương Thị Hồng Nhung
-- **Mã Sinh Viên**: 2A20227252
+- **Mã Sinh Viên**: 2A202600811
 - **Ngày**: 1/6/2026
 
 ---
